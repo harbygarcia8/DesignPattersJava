@@ -3,6 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.OperadorTernario/1.OperadorTernario.iml" filepath="$PROJECT_DIR$/1.OperadorTernario/1.OperadorTernario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.BubbleSort/10.BubbleSort.iml" filepath="$PROJECT_DIR$/10.BubbleSort/10.BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.ModificadoresDeAcceso/11.ModificadoresDeAcceso.iml" filepath="$PROJECT_DIR$/11.ModificadoresDeAcceso/11.ModificadoresDeAcceso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.Static/12.Static.iml" filepath="$PROJECT_DIR$/12.Static/12.Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.Abstract/13.Abstract.iml" filepath="$PROJECT_DIR$/13.Abstract/13.Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.Enum/14.Enum.iml" filepath="$PROJECT_DIR$/14.Enum/14.Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.Scanner/15.Scanner.iml" filepath="$PROJECT_DIR$/15.Scanner/15.Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16.Math/16.Math.iml" filepath="$PROJECT_DIR$/16.Math/16.Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.DecimalFormat/17.DecimalFormat.iml" filepath="$PROJECT_DIR$/17.DecimalFormat/17.DecimalFormat.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.Bucles/2.Bucles.iml" filepath="$PROJECT_DIR$/2.Bucles/2.Bucles.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.ContinueAndBreak/3.ContinueAndBreak.iml" filepath="$PROJECT_DIR$/3.ContinueAndBreak/3.ContinueAndBreak.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.Metodos/4.Metodos.iml" filepath="$PROJECT_DIR$/4.Metodos/4.Metodos.iml" />
@@ -12,6 +20,9 @@
       <module fileurl="file://$PROJECT_DIR$/8.Clases/8.Clases.iml" filepath="$PROJECT_DIR$/8.Clases/8.Clases.iml" />
       <module fileurl="file://$PROJECT_DIR$/9.Objetos/9.Objetos.iml" filepath="$PROJECT_DIR$/9.Objetos/9.Objetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design Patterns.iml" filepath="$PROJECT_DIR$/Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjmNomina/EjmNomina.iml" filepath="$PROJECT_DIR$/EjmNomina/EjmNomina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjmUniversidad/EjmUniversidad.iml" filepath="$PROJECT_DIR$/EjmUniversidad/EjmUniversidad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ficheros/Ficheros.iml" filepath="$PROJECT_DIR$/Ficheros/Ficheros.iml" />
     </modules>
   </component>
 </project>

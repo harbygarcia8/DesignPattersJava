@@ -13,8 +13,8 @@ public class BucleForEach {
             como la variable contenedora es de tipo String,
             debo usar ese mismo tipo de dato para recorrerlo
             */
-            for (String string : listadeNombres) {
-                System.out.println(string);
+            for (String variable : listadeNombres) {
+                System.out.println(variable);
             }
 
     }

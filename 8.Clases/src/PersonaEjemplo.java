@@ -19,8 +19,6 @@ public class PersonaEjemplo {
         System.out.println("Hola " + getNombre());
     }
 
-
-
     public String getNombre() {
         return nombre;
     }
